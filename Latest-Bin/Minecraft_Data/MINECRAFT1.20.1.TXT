@@ -1,0 +1,5 @@
+clone this repo : https://github.com/sunnychon/SunnyLauncherFiles/tree/main/MinecraftVersions/f1.20.1
+run JoinFiles.bat
+extract it here like this:
+
+(Launcher root)\Minecraft_Data\f1.20.1\.minecraft\(Minecraft files)
