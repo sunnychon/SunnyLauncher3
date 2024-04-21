@@ -1,0 +1,11 @@
+D:\visual studio 2015\Projects\SunnyLauncherv3.0-PortableUSB\SunnyLauncherv3.0-PortableUSB\bin\Debug\SunnyLauncherv3.0-PortableUSB.exe
+D:\visual studio 2015\Projects\SunnyLauncherv3.0-PortableUSB\SunnyLauncherv3.0-PortableUSB\bin\Debug\SunnyLauncherv3.0-PortableUSB.pdb
+D:\visual studio 2015\Projects\SunnyLauncherv3.0-PortableUSB\SunnyLauncherv3.0-PortableUSB\bin\Debug\SunnyLauncherv3.0-PortableUSB.xml
+D:\visual studio 2015\Projects\SunnyLauncherv3.0-PortableUSB\SunnyLauncherv3.0-PortableUSB\obj\Debug\SunnyLauncherv3.0-PortableUSB.vbprojResolveAssemblyReference.cache
+D:\visual studio 2015\Projects\SunnyLauncherv3.0-PortableUSB\SunnyLauncherv3.0-PortableUSB\obj\Debug\SunnyLauncherv3._0_PortableUSB.ConfigPage.resources
+D:\visual studio 2015\Projects\SunnyLauncherv3.0-PortableUSB\SunnyLauncherv3.0-PortableUSB\obj\Debug\SunnyLauncherv3._0_PortableUSB.Form1.resources
+D:\visual studio 2015\Projects\SunnyLauncherv3.0-PortableUSB\SunnyLauncherv3.0-PortableUSB\obj\Debug\SunnyLauncherv3._0_PortableUSB.Resources.resources
+D:\visual studio 2015\Projects\SunnyLauncherv3.0-PortableUSB\SunnyLauncherv3.0-PortableUSB\obj\Debug\SunnyLauncherv3.0-PortableUSB.vbproj.GenerateResource.Cache
+D:\visual studio 2015\Projects\SunnyLauncherv3.0-PortableUSB\SunnyLauncherv3.0-PortableUSB\obj\Debug\SunnyLauncherv3.0-PortableUSB.exe
+D:\visual studio 2015\Projects\SunnyLauncherv3.0-PortableUSB\SunnyLauncherv3.0-PortableUSB\obj\Debug\SunnyLauncherv3.0-PortableUSB.xml
+D:\visual studio 2015\Projects\SunnyLauncherv3.0-PortableUSB\SunnyLauncherv3.0-PortableUSB\obj\Debug\SunnyLauncherv3.0-PortableUSB.pdb
