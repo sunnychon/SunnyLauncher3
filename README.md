@@ -14,8 +14,12 @@ Second,click this button
 
 ![image](https://github.com/sunnychon/SunnyLauncher3/assets/99316503/1d97b674-bc10-4817-a468-7076aa3bf417)
 
-And the last step,click the Reset button
+Third,click the Reset button
 
 ![image](https://github.com/sunnychon/SunnyLauncher3/assets/99316503/13c4bb7b-c0ca-4dbd-b0b7-afed562f6757)
+
+And last , click this to start the game
+
+![image](https://github.com/sunnychon/SunnyLauncher3/assets/99316503/d0946e41-9e86-4e58-8cc6-e4678c48e2f6)
 
 
