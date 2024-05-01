@@ -36,6 +36,7 @@ Partial Class ConfigPage
         Me.CfgReset = New System.Windows.Forms.Button()
         Me.CfgCancel = New System.Windows.Forms.Button()
         Me.CfgApply = New System.Windows.Forms.Button()
+        Me.VersionLabel = New System.Windows.Forms.Label()
         Me.SuspendLayout()
         '
         'UsrNameBox
@@ -145,11 +146,22 @@ Partial Class ConfigPage
         Me.CfgApply.Text = "Apply"
         Me.CfgApply.UseVisualStyleBackColor = True
         '
+        'VersionLabel
+        '
+        Me.VersionLabel.AutoSize = True
+        Me.VersionLabel.Enabled = False
+        Me.VersionLabel.Location = New System.Drawing.Point(12, 145)
+        Me.VersionLabel.Name = "VersionLabel"
+        Me.VersionLabel.Size = New System.Drawing.Size(184, 12)
+        Me.VersionLabel.TabIndex = 13
+        Me.VersionLabel.Text = "SunnyLauncher Version 3.0Portable-b"
+        '
         'ConfigPage
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 12.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(267, 200)
+        Me.Controls.Add(Me.VersionLabel)
         Me.Controls.Add(Me.CfgApply)
         Me.Controls.Add(Me.CfgCancel)
         Me.Controls.Add(Me.CfgReset)
@@ -187,4 +199,5 @@ Partial Class ConfigPage
     Friend WithEvents CfgReset As Button
     Friend WithEvents CfgCancel As Button
     Friend WithEvents CfgApply As Button
+    Friend WithEvents VersionLabel As Label
 End Class

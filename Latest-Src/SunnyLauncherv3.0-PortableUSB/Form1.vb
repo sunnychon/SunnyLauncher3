@@ -19,8 +19,8 @@ Public Class Form1
     Dim Configured_cfg
 
     Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
-        UpdateCfg()
         Configured_cfg = False
+        UpdateCfg()
         File.Delete("latest_news.txt")
         Shell("aria2c https://raw.githubusercontent.com/sunnychon/SunnyLauncherFiles/main/latest_news.txt")
         Thread.Sleep(2000)
@@ -43,7 +43,7 @@ Public Class Form1
             Thread.Sleep(500)
             If File.Exists("Cfg.UsrName.slcfg") Then
                 If File.Exists("Cfg.McVer.slcfg") Then
-                    Me.Configured_cfg = True
+                    Configured_cfg = True
                     Me.LaunchBtn.Text = "Launch - " & McVer & " - " & UsrName
                 End If
             End If
